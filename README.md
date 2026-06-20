@@ -62,7 +62,9 @@ Through this project, I learned:
 * Remove Item from Cart
 * API Integration
 * User Authentication
+* Backend API Integration  
 
-## Author
+## 👩‍💻 Author
 
-Aaradhana Devda
+**Aaradhana Devda**  
+Intern – Frontend Web Development 
